@@ -16,3 +16,6 @@
 [submodule "go-many-to-many-buffered-channel"]
 	path = go-many-to-many-buffered-channel
 	url = https://gist.github.com/0af1ac31c6a5c18987d630c82838e47d.git
+[submodule "go-one-to-many-buffered-channel"]
+	path = go-one-to-many-buffered-channel
+	url = https://gist.github.com/814549a9a3ebd42dde27a3cff5e65883.git
