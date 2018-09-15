@@ -10,3 +10,6 @@
 [submodule "go-stream-file-between-goroutines-with-pipe"]
 	path = go-stream-file-between-goroutines-with-pipe
 	url = https://gist.github.com/40d22fd85fdd6b412b4527ba5bc54a48.git
+[submodule "go-stream-file-between-goroutines-with-channel"]
+	path = go-stream-file-between-goroutines-with-channel
+	url = https://gist.github.com/5ff65b14ac030cffed0cbdeac6ba8449.git
