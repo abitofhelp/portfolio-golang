@@ -13,3 +13,6 @@
 [submodule "go-stream-file-between-goroutines-with-channel"]
 	path = go-stream-file-between-goroutines-with-channel
 	url = https://gist.github.com/5ff65b14ac030cffed0cbdeac6ba8449.git
+[submodule "go-many-to-many-buffered-channel"]
+	path = go-many-to-many-buffered-channel
+	url = https://gist.github.com/0af1ac31c6a5c18987d630c82838e47d.git
