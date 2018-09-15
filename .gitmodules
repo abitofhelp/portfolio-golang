@@ -7,3 +7,6 @@
 [submodule "go-astream-file-between-goroutines-with-refcntpool"]
 	path = go-astream-file-between-goroutines-with-refcntpool
 	url = https://gist.github.com/b5f3eebf7e316b96b2cdc4188db2d742.git
+[submodule "go-stream-file-between-goroutines-with-pipe"]
+	path = go-stream-file-between-goroutines-with-pipe
+	url = https://gist.github.com/40d22fd85fdd6b412b4527ba5bc54a48.git
