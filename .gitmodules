@@ -1,3 +1,6 @@
 [submodule "producerconsumer"]
 	path = producerconsumer
 	url = https://github.com/abitofhelp/producerconsumer.git
+[submodule "motominderapi"]
+	path = motominderapi
+	url = https://github.com/abitofhelp/motominderapi.git
