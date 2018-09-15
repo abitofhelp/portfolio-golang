@@ -22,3 +22,6 @@
 [submodule "go-read-file-chunks"]
 	path = go-read-file-chunks
 	url = https://gist.github.com/3442cd4476ec34c1b571225deb0f73df.git
+[submodule "checksums"]
+	path = checksums
+	url = https://github.com/abitofhelp/checksums.git
