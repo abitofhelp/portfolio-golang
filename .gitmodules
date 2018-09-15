@@ -19,3 +19,6 @@
 [submodule "go-one-to-many-buffered-channel"]
 	path = go-one-to-many-buffered-channel
 	url = https://gist.github.com/814549a9a3ebd42dde27a3cff5e65883.git
+[submodule "go-read-file-chunks"]
+	path = go-read-file-chunks
+	url = https://gist.github.com/3442cd4476ec34c1b571225deb0f73df.git
