@@ -1,0 +1,3 @@
+[submodule "producerconsumer"]
+	path = producerconsumer
+	url = https://github.com/abitofhelp/producerconsumer.git
