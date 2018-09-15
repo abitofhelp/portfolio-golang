@@ -4,3 +4,6 @@
 [submodule "motominderapi"]
 	path = motominderapi
 	url = https://github.com/abitofhelp/motominderapi.git
+[submodule "go-astream-file-between-goroutines-with-refcntpool"]
+	path = go-astream-file-between-goroutines-with-refcntpool
+	url = https://gist.github.com/b5f3eebf7e316b96b2cdc4188db2d742.git
